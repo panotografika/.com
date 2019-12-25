@@ -1,2 +1,2 @@
-# .com
+# my@panoto.com
 Percetakan
